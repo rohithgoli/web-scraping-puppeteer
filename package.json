@@ -1,0 +1,23 @@
+{
+  "name": "web-scraping-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohithgoli/web-scraping-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohithgoli/web-scraping-puppeteer/issues"
+  },
+  "homepage": "https://github.com/rohithgoli/web-scraping-puppeteer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.4.1"
+  }
+}
