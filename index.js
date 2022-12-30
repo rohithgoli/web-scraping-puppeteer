@@ -9,7 +9,7 @@ app.use(express.static("public"));
 app.use(express.urlencoded({ extended: false}));
 
 
-app.use('/api/v1/', getRoutes);
+app.use('/api/v1', getRoutes);
 
 const PORT = 3001;
 
